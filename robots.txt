@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kainio.github.io/lumeDemo/sitemap-fr.xml
-Sitemap: https://kainio.github.io/lumeDemo/sitemap-en.xml
+Sitemap: https://kainio.github.io/lumeDemo/sitemap-fr-fr.xml
 Sitemap: https://kainio.github.io/lumeDemo/sitemap-ar.xml
+Sitemap: https://kainio.github.io/lumeDemo/sitemap-concept-1770933690599.xml
 Sitemap: https://kainio.github.io/lumeDemo/sitemap-index.xml
