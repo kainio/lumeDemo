@@ -1,0 +1,422 @@
+{
+  "title": "LumeExpert - Agence de Création Web",
+  "icon": "🚀",
+  "pages": [
+    {
+      "id": "p1",
+      "name": "Accueil",
+      "slug": "/",
+      "type": "page",
+      "seo": {
+        "title": "LumeExpert | Création de sites web LumeGem ultra-rapides"
+      },
+      "sections": [],
+      "layoutId": "layout-main"
+    },
+    {
+      "id": "p2",
+      "name": "À Propos",
+      "slug": "a-propos",
+      "type": "page",
+      "seo": {
+        "title": "À Propos | LumeExpert - Spécialistes LumeGem"
+      },
+      "sections": [],
+      "layoutId": "layout-main"
+    },
+    {
+      "id": "p3",
+      "name": "Contact",
+      "slug": "contact",
+      "type": "page",
+      "seo": {
+        "title": "Contact | LumeExpert - Devis Gratuit"
+      },
+      "sections": [],
+      "layoutId": "layout-main"
+    },
+    {
+      "id": "page-1770935892571",
+      "name": "pricing",
+      "slug": "pricing",
+      "type": "page",
+      "sections": [
+        {
+          "id": "h1-1",
+          "type": "header_9",
+          "content": {
+            "heading": "Nos Tarifs Clairs",
+            "tagline": "Valeur, Transparence, Croissance",
+            "video": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&loop=1&playlist=dQw4w9WgXcQ&controls=0&modestbranding=1&rel=0&showinfo=0&disablekb=1&fs=0&iv_load_policy=3&autohide=1&wmode=opaque&enablejsapi=1&origin=https://www.lumeexpert.com"
+          }
+        },
+        {
+          "id": "p2",
+          "type": "pricing_4",
+          "content": {
+            "heading": "Choisissez Votre Plan Idéal",
+            "description": "Des solutions flexibles pour chaque étape de votre projet web. Faites évoluer votre présence en ligne avec LumeExpert.",
+            "image_keywords": "modern pricing table, three tiers, growth, value, web development",
+            "items": [
+              {
+                "title": "Essentiel",
+                "badge": "Populaire",
+                "currency": "€",
+                "price": 499,
+                "url": "/lumeDemo/ar/contact",
+                "variants": [
+                  "Unique",
+                  "Mensuel (49€) annuel engagement",
+                  "Annuel (499€) paiement unique",
+                  "À vie (999€) paiement unique",
+                  "Personnalisé (sur devis)"
+                ]
+              },
+              {
+                "title": "Performance",
+                "badge": "Recommandé",
+                "currency": "€",
+                "price": 999,
+                "url": "/lumeDemo/ar/contact",
+                "variants": [
+                  "Unique",
+                  "Mensuel (99€) annuel engagement",
+                  "Annuel (999€) paiement unique",
+                  "À vie (1999€) paiement unique",
+                  "Personnalisé (sur devis)"
+                ]
+              },
+              {
+                "title": "Sur Mesure",
+                "badge": "Premium",
+                "currency": "€",
+                "price": 1999,
+                "url": "/lumeDemo/ar/contact",
+                "variants": [
+                  "Unique",
+                  "Mensuel (199€) annuel engagement",
+                  "Annuel (1999€) paiement unique",
+                  "À vie (3999€) paiement unique",
+                  "Personnalisé (sur devis)"
+                ]
+              }
+            ],
+            "image": "https://gen.pollinations.ai/image/modern%20pricing%20table%2C%20three%20tiers%2C%20growth%2C%20value%2C%20web%20development?width=1200&height=800&nologo=true"
+          }
+        },
+        {
+          "id": "f3",
+          "type": "faq_1",
+          "content": {
+            "heading": "Questions Fréquentes",
+            "description": "Trouvez les réponses aux questions les plus courantes concernant nos services et tarifs.",
+            "image_keywords": "people asking questions, customer support, clarity, information",
+            "items": [
+              {
+                "title": "Comment fonctionne le paiement ?",
+                "description": "Le paiement est généralement divisé en plusieurs étapes : un acompte au début du projet, des paiements intermédiaires et le solde à la livraison finale."
+              },
+              {
+                "title": "Puis-je changer de plan plus tard ?",
+                "description": "Oui, vous pouvez faire évoluer votre plan à tout moment. Nous sommes flexibles pour nous adapter à la croissance de vos besoins."
+              },
+              {
+                "title": "Qu'est-ce qui n'est pas inclus ?",
+                "description": "Les coûts de licences tierces spécifiques, les banques d'images premium ou la rédaction de contenu avancé ne sont pas inclus, sauf mention contraire explicite."
+              },
+              {
+                "title": "Offrez-vous un support après la livraison ?",
+                "description": "Oui, tous nos plans incluent une période de support post-lancement pour assurer le bon fonctionnement de votre site."
+              }
+            ],
+            "image": "https://gen.pollinations.ai/image/people%20asking%20questions%2C%20customer%20support%2C%20clarity%2C%20information?width=1200&height=800&nologo=true"
+          }
+        },
+        {
+          "id": "c4",
+          "type": "cta_1",
+          "content": {
+            "heading": "Prêt à démarrer ?",
+            "description": "Contactez-nous dès aujourd'hui pour une consultation gratuite et discutons de votre projet web.",
+            "image_keywords": "handshake, business meeting, collaboration, project start",
+            "tagline": "Votre projet, notre expertise",
+            "video": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&loop=1&playlist=dQw4w9WgXcQ&controls=0&modestbranding=1&rel=0&showinfo=0&disablekb=1&fs=0&iv_load_policy=3&autohide=1&wmode=opaque&enablejsapi=1&origin=https://www.lumeexpert.com",
+            "image": "https://gen.pollinations.ai/image/handshake%2C%20business%20meeting%2C%20collaboration%2C%20project%20start?width=1200&height=800&nologo=true"
+          }
+        }
+      ],
+      "layoutId": "layout-main",
+      "seo": {}
+    }
+  ],
+  "layouts": [
+    {
+      "id": "layout-main",
+      "name": "Main Layout",
+      "sections": [
+        {
+          "id": "nav-1",
+          "type": "navbar_1",
+          "content": {
+            "heading": "ماركة",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
+            "buttons": [
+              {
+                "text": "لغة",
+                "style": "icon-badge",
+                "href": "#",
+                "action": "switch-concept",
+                "icon": "globe"
+              },
+              {
+                "text": "Cart",
+                "style": "icon-badge",
+                "href": "#",
+                "action": "viewCart"
+              }
+            ],
+            "items": [
+              {
+                "title": "الرئيسية",
+                "description": "",
+                "url": "/lumeDemo/ar/ar",
+                "list_items": []
+              },
+              {
+                "title": "الدفع",
+                "description": "",
+                "url": "/lumeDemo/ar/store/checkout"
+              }
+            ],
+            "image_alt": "Placeholder image"
+          }
+        },
+        {
+          "id": "layout-content",
+          "type": "layout_content",
+          "content": {
+            "heading": "Page Content",
+            "description": "Content from individual pages will be inserted here.",
+            "buttons": [
+              {
+                "text": "Button",
+                "style": "primary",
+                "href": "#"
+              },
+              {
+                "text": "Button",
+                "style": "secondary",
+                "href": "#"
+              }
+            ],
+            "items": [],
+            "image_alt": "Placeholder image"
+          }
+        },
+        {
+          "id": "footer-1",
+          "type": "footer_1",
+          "content": {
+            "heading": "ماركة",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
+            "buttons": [
+              {
+                "text": "Privacy Policy",
+                "style": "link",
+                "href": "#"
+              },
+              {
+                "text": "Terms of Service",
+                "style": "link",
+                "href": "#"
+              },
+              {
+                "text": "Cookies Settings",
+                "style": "link",
+                "href": "#"
+              }
+            ],
+            "items": [
+              {
+                "title": "Column One",
+                "description": "",
+                "link_items": [
+                  {
+                    "text": "Link One",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Two",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Three",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Four",
+                    "url": "#"
+                  }
+                ]
+              },
+              {
+                "title": "Column Two",
+                "description": "",
+                "link_items": [
+                  {
+                    "text": "Link One",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Two",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Three",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Four",
+                    "url": "#"
+                  }
+                ]
+              },
+              {
+                "title": "Column Three",
+                "description": "",
+                "link_items": [
+                  {
+                    "text": "Link One",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Two",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Three",
+                    "url": "#"
+                  },
+                  {
+                    "text": "Link Four",
+                    "url": "#"
+                  }
+                ]
+              }
+            ],
+            "image_alt": "Placeholder image",
+            "copyright_text": "© 2024 Brand. All rights reserved.",
+            "social_links": [
+              {
+                "platform": "facebook",
+                "url": "#"
+              },
+              {
+                "platform": "instagram",
+                "url": "#"
+              },
+              {
+                "platform": "twitter",
+                "url": "#"
+              },
+              {
+                "platform": "linkedin",
+                "url": "#"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "styleGuide": {
+    "typography": {
+      "headingFont": "Oswald",
+      "bodyFont": "Inter",
+      "fontSize": "small",
+      "fontWeight": "normal",
+      "fontStyle": "default",
+      "headingTransform": "uppercase"
+    },
+    "theme": "emerald",
+    "borderRadius": "0.5rem",
+    "colors": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "primary": "#000000"
+    },
+    "elementStyles": {
+      "buttons": "default",
+      "cards": "default"
+    }
+  },
+  "settings": {
+    "ecommerce": {
+      "checkoutPageId": "page-1767129269203",
+      "whatsappNumber": "",
+      "currency": "USD",
+      "currencyPosition": "right",
+      "products": [
+        {
+          "id": "dress-fr-2",
+          "name": "Robe",
+          "description": "",
+          "price": "120",
+          "image": "/lumeDemo/uploads/concept-default/banner-2-a86f1759-2c3c-4089-9844-5d8d2e65679e.png",
+          "rating": 5,
+          "reviewCount": "0",
+          "options": [],
+          "variants": [],
+          "categoryId": "robe"
+        }
+      ],
+      "categories": [
+        {
+          "id": "robe",
+          "name": "Robe",
+          "slug": "robe"
+        }
+      ],
+      "labels": {
+        "cartTitle": "لائحة المشتريات",
+        "addedToCartText": "Ajouté au panier",
+        "viewCartText": "Voir le panier",
+        "orderSummaryTitle": "Commande",
+        "emptyCartText": "Votre panier est vide",
+        "continueShoppingText": "Continuer votre achat",
+        "subtotalLabel": "Sous-total",
+        "checkoutButtonText": "Continuer vers le paiement",
+        "totalLabel": "Total",
+        "whatsappOrderButtonText": "Compléter votre commande sur WhatsApp",
+        "formHeading": "Paiement",
+        "formDescription": "Compléter votre commande sur WhatsApp",
+        "fullNameLabel": "Nom complet",
+        "phoneLabel": "Numéro whatsApp",
+        "cityLabel": "Ville",
+        "addressLabel": "Adresse / Notes",
+        "removeItemLabel": "حدف"
+      }
+    }
+  },
+  "mountableConcepts": [
+    {
+      "id": "concept-1767035287222",
+      "name": "Français",
+      "slug": "fr-fr"
+    },
+    {
+      "id": "concept-1767137680061",
+      "name": "ar",
+      "slug": "ar"
+    },
+    {
+      "id": "concept-1770933690599",
+      "name": "English",
+      "slug": "concept-1770933690599"
+    }
+  ],
+  "activeConceptSlug": "ar",
+  "isRtl": true,
+  "language": "ar",
+  "localFontsCss": ""
+}
