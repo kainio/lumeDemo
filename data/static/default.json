@@ -526,6 +526,12 @@
                 "title": "Contact",
                 "url": "contact",
                 "pageId": "p3"
+              },
+              {
+                "title": "Pricing",
+                "description": "Description",
+                "url": "pricing",
+                "pageId": "page-1770935892571"
               }
             ],
             "buttons": [
